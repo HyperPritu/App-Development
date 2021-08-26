@@ -39,14 +39,14 @@
             "op3": "3. pritam/soumik",
             "op4": "4. all",
             "correct": "4.all"
-        }
+        },
         {
             "ques": "who was the first president of india...",
             "op1": "1. Dr Rajendra Prasad",
             "op2": "2. B.c.Modi",
             "op3": "3. K.c Mamta ",
             "op4": "4. Manmohan singh",
-            "correct": "4.all"
+            "correct": "1.Dr Rajendra Prasad"
         }
     ]
 }
