@@ -26,5 +26,9 @@
     [
         "Sun rises from west",
         false
-    ]
+    ],
+    [
+        "Baarish must quit his singing",
+        true
+    ],
 ]
