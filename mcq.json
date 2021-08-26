@@ -31,6 +31,14 @@
             "op3": "3. pritam/priu",
             "op4": "4. all",
             "correct": "4.all"
+        },
+        {
+            "ques": "who is the chutiya?...",
+            "op1": "1. sao",
+            "op2": "2. Rohan",
+            "op3": "3. pritam/soumik",
+            "op4": "4. all",
+            "correct": "4.all"
         }
         {
             "ques": "who was the first president of india...",
