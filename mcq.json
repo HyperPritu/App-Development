@@ -30,7 +30,7 @@
             "op2": "2. Rohan",
             "op3": "3. pritam/priu",
             "op4": "4. all",
-            "correct": "4.all"
+            "correct": "4. all"
         },
         {
             "ques": "who is the chutiya?...",
@@ -38,23 +38,23 @@
             "op2": "2. Rohan",
             "op3": "3. pritam/soumik",
             "op4": "4. all",
-            "correct": "4.all"
+            "correct": "4. all"
         },
         {
             "ques": "who was the first president of india...",
             "op1": "1. Dr Rajendra Prasad",
             "op2": "2. B.c.Modi",
-            "op3": "3. K.c Mamta ",
+            "op3": "3. K.c Mamta",
             "op4": "4. Manmohan singh",
-            "correct": "1.Dr Rajendra Prasad"
+            "correct": "1. Dr Rajendra Prasad"
         },
         {
             "ques": "which is the smallest bone of the body ?...",
             "op1": "1. Malleus",
             "op2": "2. Incus",
-            "op3": "3. Stapes ",
+            "op3": "3. Stapes",
             "op4": "4. Femur",
-            "correct": "khud seye batao school mein parey ho"
+            "correct": "3. Stapes"
         },
         {
             "ques": "HTML means",
