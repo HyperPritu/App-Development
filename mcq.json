@@ -1,7 +1,7 @@
 {
     "questions": [
         {
-            "ques": "Pepsi is a...",
+            "ques": " if (start == NULL)\n{\nstart=newptr;\n}",
             "op1": "1. Gandu",
             "op2": "2. 2 Rupee Human",
             "op3": "3. Elephant",
